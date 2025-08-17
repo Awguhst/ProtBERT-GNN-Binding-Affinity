@@ -1,6 +1,6 @@
 # Protein-Ligand Affinity Prediction with Hybrid GNN
 
-This repository contains a hybrid model for predicting the binding affinity between proteins and ligands using **Graph Neural Networks (GNN)** and **Transformer-based embeddings** (ProtBERT for proteins). The dataset was sourced from the Kaggle competition [Structure-free protein-ligand affinity prediction](https://kaggle.com/competitions/protein-compound-affinity), and we aim to predict the binding affinity from protein sequences and ligand SMILES strings.
+This repository contains a hybrid model for predicting the binding affinity between proteins and ligands using **Graph Neural Networks (GNN)** and **Transformer-based embeddings** (ProtBERT for proteins). The dataset was sourced from the Kaggle competition [Structure-free protein-ligand affinity prediction](https://kaggle.com/competitions/protein-compound-affinity).
 
 ## What is Binding Affinity?
 
