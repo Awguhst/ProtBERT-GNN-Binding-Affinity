@@ -26,8 +26,6 @@ By combining **ProtBERT** (for protein sequence embeddings) with graph-based mod
 
 ## Requirements
 
-To run this project, you'll need:
-
 ### Software:
 - **Python 3.8+**
 
