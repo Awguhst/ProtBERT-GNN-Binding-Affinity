@@ -22,7 +22,7 @@ By combining **ProtBERT** (for protein sequence embeddings) with graph-based mod
 ## Training & Results
 
 - **Dataset**: Trained on **100k samples**.
-- **Performance**: The model achieved an **MSE of 1.23**, which is slightly better than the top Kaggle score of **1.38** for this competition, which of course uses the full dataset of **263k samples**.
+- **Performance**: The model achieved an **MSE of 1.23**
 
 ## Requirements
 
